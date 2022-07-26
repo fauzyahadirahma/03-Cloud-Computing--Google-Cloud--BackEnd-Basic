@@ -1,7 +1,7 @@
 Kampus Merdeka x BANGKIT 2022
 
 # 03 Cloud Computing - (Google-Cloud) Back End Basic
-Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Ketiga
+Repository ini Berisi Pengalaman Belajar Saya di Bangkit 2022 pada Minggu Keempat
 
 8 Maret 2022  
 Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud
